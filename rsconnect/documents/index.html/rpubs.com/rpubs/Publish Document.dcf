@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/984000/411797b1af374d6baab26b6ca2917034
+bundleId: https://api.rpubs.com/api/v1/document/984000/411797b1af374d6baab26b6ca2917034
+url: http://rpubs.com/hollyhake/984000
+when: 1671060027.83735
+lastSyncTime: 1671060027.83735
